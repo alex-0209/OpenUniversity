@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.Button {
+  margin: 20px 5px;
+  padding: 10px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
